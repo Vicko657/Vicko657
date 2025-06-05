@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Victoria (aka Vic)!
+## 👋 Hi, I'm Victoria (aka Vic)!
 
 I'm a **designer turned developer**, currently transitioning into full-stack development with a focus on both **Java (backend)** and **front-end technologies**.
 
@@ -19,7 +19,7 @@ I'm a **designer turned developer**, currently transitioning into full-stack dev
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ## 📫 Let's connect!
-- 📧 Email: [victoriaolusegun@googlemail.com]  
+- 📧 Email: [Send a Email](victoriaolusegun@googlemail.com)  
 - 💼 LinkedIn: [Click Here](www.linkedin.com/in/victoriaolusegun)
 - 🖥️ Portfolio [Click Here](https://www.victoriaolusegun.com/)
 
