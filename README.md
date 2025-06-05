@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Victoria (aka Vic)!
 
-I'm a **designer-turned-developer**, currently transitioning into full-stack development with a focus on both **Java (backend)** and **front-end technologies**.
+I'm a **designer turned developer**, currently transitioning into full-stack development with a focus on both **Java (backend)** and **front-end technologies**.
 
 ## 🌱 What I'm working on
 - Learning **Java** for backend development  
