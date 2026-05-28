@@ -1,41 +1,35 @@
-## 👋 Hi, I'm Victoria (aka Vic)!
+# 👋 Hi, I'm Victoria (Vic)! 
 
-I'm a **designer turned developer**, currently transitioning into full-stack development with a focus on both **Java (backend)** and **front-end technologies**.
+**Java backend developer**, based in London. I build REST APIs with Spring Boot, Spring Security and MySQL - deployed, tested and documented.
 
-## 🌱 What I'm working on
-- Learning **Java** for backend development  
-- Building responsive, accessible **front-end interfaces** using HTML, CSS and JavaScript  
-- Developing confidence with tools like **Git** and **GitHub**
+I completed a high-distinction Java bootcamp (A+ 91%) with CBF delivered in partnership with UBS. Before engineering I spent 3 years as a designer in a fast-paced agency, giving me a clear sense of what production-quality delivery looks like from the outside in.
 
-## 💻 Tech I'm currently learning
-**Languages & Frameworks**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+---
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+## 🛠️ Tech
 
-## 📫 Let's connect!
-- 📧 Email: [Send a Email](victoriaolusegun@googlemail.com)  
-- 💼 LinkedIn: [Click Here](www.linkedin.com/in/victoriaolusegun)
-- 🖥️ Portfolio [Click Here](https://www.victoriaolusegun.com/)
+**Backend:** Java 17 · Spring Boot · Spring Security (JWT/RBAC) · Spring Data JPA · MySQL · TDD · JUnit5 · Mockito · RESTful APIs · RSQL
 
-Thanks for stopping by! 😊
+**DevOps:** Docker · GitHub Actions (CI/CD) · Railway
 
-<!--
-**Vicko657/Vicko657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend:** Javascript · React · HTML · CSS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Featured Projects
+  
+**[Interior Design Planner API](https://github.com/Vicko657/interior-design-planner-api)**
+- Production REST API - JWT auth, RBAC, RSQL filtering, Docker, deployed on Railway with automated CI/CD.
+[Live Swagger UI](https://interior-design-planner.up.railway.app/swagger-ui/index.html)
+
+**[Trading Capture System](https://github.com/Vicko657/trade-capture-system)**
+- Full-stack trading application (UBS bootcamp).
+- Built advanced trade search, validation engine, trader dashboard and fixed a cashflow calculation bug in a production-style codebase.
+
+---
+
+## 📫 Contact
+
+📧 [Send a email](mailto:victoriaolusegun@googlemail.com)  
+💼 [LinkedIn](www.linkedin.com/in/victoriaolusegun)
+🖥️ [Portfolio](https://www.victoriaolusegun.com/)
