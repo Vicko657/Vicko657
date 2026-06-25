@@ -34,5 +34,5 @@ I completed a high-distinction Java bootcamp (A+ 91%) with Coding Black Females 
 ## 📫 Contact
 
 📧 [Send a email](mailto:victoriaolusegun@googlemail.com)  
-💼 [LinkedIn](www.linkedin.com/in/victoriaolusegun/)
+💼 [LinkedIn](https://www.linkedin.com/in/victoriaolusegun/)
 🖥️ [Portfolio](https://www.victoriaolusegun.com/)
